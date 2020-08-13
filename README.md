@@ -2,7 +2,7 @@
 
 Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
 
-![system_components]
+![system_components]{: height="800px"}
 
 ## Verwendete Technologien:
 * [Spring Boot]
