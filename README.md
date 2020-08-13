@@ -2,7 +2,7 @@
 
 Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
 
-![system_components|50%]
+![system_components](system_components.png =800x)
 
 ## Verwendete Technologien:
 * [Spring Boot]
@@ -12,5 +12,3 @@ Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
 * [Bootstrap]
 * [Swagger]
 * [kong API Gateway]
-
-[system_components]: system_components.png
