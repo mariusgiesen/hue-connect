@@ -8,9 +8,10 @@
     <a href="https://github.com/mariusgiesen/hue-connect"><strong>Explore the docs »</strong></a>
     <br />
   </p>
+  <img src="system_components.png" height="800">
 </p>
 
-<img src="system_components.png" height="800">
+
 
 ## Komponenten
 
