@@ -14,16 +14,22 @@ Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
 * [Hue Control Frontend](#hue-control-frontend)
 
 ### Eureka Server
+To Do...
 
 ### Hue Connect API
+To Do...
 
 ### Hue History API
+To Do...
 
 ### Hue Info API
+To Do...
 
 ### Hue Control API
+To Do...
 
 ### Hue Control Frontend
+To Do...
 
 ## Verwendete Technologien:
 * [Spring Boot]
