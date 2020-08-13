@@ -1,6 +1,14 @@
-# hue-connect
+<br />
+<p align="center">
+  <h3 align="center">hue-connect</h3>
 
-Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
+  <p align="center">
+    Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
+    <br />
+    <a href="https://github.com/mariusgiesen/hue-connect"><strong>Explore the docs »</strong></a>
+    <br />
+  </p>
+</p>
 
 <img src="system_components.png" height="800">
 
