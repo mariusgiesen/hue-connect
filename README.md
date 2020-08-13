@@ -11,7 +11,9 @@
   <img src="system_components.png" height="800">
 </p>
 
-
+## Inhalt
+* [Komponenten](#komponenten)
+* [Verwendete Technologien](#verwendete-technologien)
 
 ## Komponenten
 
