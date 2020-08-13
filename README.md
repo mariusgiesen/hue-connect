@@ -9,3 +9,5 @@ Eine Webapplikation, um den Status von Hue Geräten abzufragen und zu setzen.
 * [InfluxDB]
 * [Bootstrap]
 * [Swagger]
+* [kong API Gateway]
+
