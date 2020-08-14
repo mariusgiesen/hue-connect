@@ -43,10 +43,10 @@ To Do...
 To Do...
 
 ## Verwendete Technologien:
-* [Spring Boot]
-* [Docker]
-* [RabbitMQ]
-* [InfluxDB]
-* [Bootstrap]
-* [Swagger]
-* [kong API Gateway]
+* [Spring Boot](https://spring.io/projects/spring-boot)
+* [Docker](https://www.docker.com/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [InfluxDB](https://www.influxdata.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Swagger](https://swagger.io/)
+* [kong API Gateway](https://konghq.com/)
