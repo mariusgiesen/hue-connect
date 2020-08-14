@@ -9,7 +9,7 @@
     <br />
   </p>
 </p>
-<img src="system_components.png" height="800" class="center">
+<img class="center" src="system_components.png" height="800">
 
 ## Inhalt
 * [Komponenten](#komponenten)
